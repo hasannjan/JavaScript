@@ -48,4 +48,3 @@ var sub3 = parseInt(c);
 var score1 = calculateScore(sub1,sub2,sub3);
 console.log(score1);
 findGrade(score1);
-//done
